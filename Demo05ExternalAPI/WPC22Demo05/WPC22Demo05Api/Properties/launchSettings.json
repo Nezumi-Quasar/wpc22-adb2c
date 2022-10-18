@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPC22Demo05Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7100 --verbose"
+    }
+  }
+}
